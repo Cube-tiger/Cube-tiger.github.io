@@ -2,13 +2,13 @@ var i = 0;
 var billeder = [];
 var time = 1000;
 
-billeder[0] = "./billeder/billede1.jpg"
-billeder[1] = "./billeder/billede2.jpg"
-billeder[2] = "./billeder/billede3.jpg"
-billeder[3] = "./billeder/billede4.jpg"
-billeder[4] = "./billeder/billede5.jpg"
-billeder[5] = "./billeder/billede6.jpg"
-billeder[6] = "./billeder/billede7.jpg"
+billeder[0] = "billede1.jpg"
+billeder[1] = "billede2.jpg"
+billeder[2] = "billede3.jpg"
+billeder[3] = "billede4.jpg"
+billeder[4] = "billede5.jpg"
+billeder[5] = "billede6.jpg"
+billeder[6] = "billede7.jpg"
 
 function changeImg(){
   document.slide.src = billeder[i];
