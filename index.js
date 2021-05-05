@@ -9,6 +9,11 @@ billeder[3] = "billede4.jpg"
 billeder[4] = "billede5.jpg"
 billeder[5] = "billede6.jpg"
 billeder[6] = "billede7.jpg"
+billeder[7] = "billede8.jpg"
+billeder[8] = "billede9.jpg"
+billeder[9] = "billede10.jpg"
+billeder[10] = "billede11.jpg"
+
 
 function changeImg(){
   document.slide.src = billeder[i];
